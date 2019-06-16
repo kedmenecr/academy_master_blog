@@ -1,0 +1,18 @@
+[submodule "BLUI"]
+	path = BLUI
+	url = git@github.com:kedmenecr/BLUI.git
+[submodule "JWTS"]
+	path = JWTS
+	url = git@github.com:kedmenecr/JWTS.git
+[submodule "GDPR"]
+	path = GDPR
+	url = git@github.com:kedmenecr/GDPR.git
+[submodule "USDB"]
+	path = USDB
+	url = git@github.com:kedmenecr/USDB.git
+[submodule "DATA"]
+	path = DATA
+	url = git@github.com:kedmenecr/DATA.git
+[submodule "BLDB"]
+	path = BLDB
+	url = git@github.com:kedmenecr/BLDB.git
